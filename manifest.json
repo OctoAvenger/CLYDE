@@ -2,9 +2,18 @@
   "manifest_version": 2,
  
   "name": "The Ultimate Discord Extension",
-  "version": "1.0.0",
-  "description": "New discord features.",
+  "short_name": "Discord Styling",
+  "version": "0.2.5",
+  "description": "This extension allows you to personalize your Discord exprience!",
  
+  "browser_action": {
+    "name": "Khan Academy Extension Beta",
+    "icons": [
+        "/icon128.png"
+    ],
+    "default_icon": "/icon256.png"
+},
+
   "content_scripts": [{
     "css": ["style.css"],
     "js": ["content.js"],
