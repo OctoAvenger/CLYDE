@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "The Ultimate Discord Extension",
+  "version": "1.0.0",
+  "description": "New discord features.",
+ 
+  "content_scripts": [{
+    "css": ["style.css"],
+    "js": ["content.js"],
+    "matches": ["https://discordapp.com/channels/*"]
+  }]
+ 
+}

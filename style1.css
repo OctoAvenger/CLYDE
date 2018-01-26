@@ -1,0 +1,16 @@
+.appMount-14L89u {
+	background-color: rgba(0, 0, 0, 0.15) !important;
+	background-image: url(http://mojmalnews.com/wp-content/uploads/2017/08/wallpaper-landscape-hd-14-0-wallpapers.jpg) !important;
+	
+}
+/* Make elements transparent */
+.guilds-wrapper, .app-XZYfmp, .app, .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .channels-3g2vYe, .flex-spacer, .messages-wrapper, .scroller-wrap, .chat, .titleWrapper-3Vi_wz, .channel-members-wrap, .scrollerWrap-2uBjct, .channel-members, .channelTextAreaEnabled-c05Zpy, .channelTextArea-1HTP3C, .innerEnabled-gLHeOL, .chat form {
+	background-color: rgba(0, 0, 0, 0.15) !important;
+}
+/* Message Text Color */
+.comment .markup {
+		color: white !important;
+}
+.typing-3eiiL { 
+	background-color: transparent;
+}
